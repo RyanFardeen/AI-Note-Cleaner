@@ -1,2 +1,13 @@
-# AI-Note-Cleaner
-A Python CLI that enhances Apple Notes using Perplexity AI — fixes grammar, adds headings, bullet points, and preserves formatting into clean, AI-polished notes.
+# AI Note Cleaner
+
+AI-powered **Apple Notes Cleaner CLI** that:
+- Summarizes & cleans messy notes
+- Formats with headings, bullet points, tables
+- Uses Perplexity AI for smart grammar fixes
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/yourusername/ai-note-cleaner.git
+cd ai-note-cleaner
+pip install -e .

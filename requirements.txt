@@ -1,0 +1,5 @@
+rich
+markdown
+beautifulsoup4
+markdownify
+tabulate
